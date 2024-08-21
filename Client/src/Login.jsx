@@ -70,7 +70,7 @@ const Login = () => {
           <button type="submit" className="btn btn-success w-100">
             Login
           </button>
-          <Link to="/home" className="btn btn-default w-100 bg-light">
+          <Link to="/signup" className="btn btn-default w-100 bg-light">
             Create an account
           </Link>
         </form>
